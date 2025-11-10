@@ -4,7 +4,7 @@ import os
 from cryptography.fernet import Fernet
 
 KEY_FILE = "key.key"
-MASTER_PASSWORD = "gurtyo6769"
+MASTER_PASSWORD = "abc123D4"
 PASSWORD_FILE = "C:/Users/simpl/Projects/password.txt"
 
 # Create or load encryption key
